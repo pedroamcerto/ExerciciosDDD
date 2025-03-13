@@ -1,0 +1,5 @@
+1,João,60.5
+  Pizza Margherita,25.5,Pizza simples com molho de tomate e queijo
+  Lasagna,35.0,Lasagna de carne com molho bechamel
+2,Maria,35.0
+  Lasagna,35.0,Lasagna de carne com molho bechamel

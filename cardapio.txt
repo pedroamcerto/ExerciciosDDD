@@ -1,0 +1,2 @@
+Pizza Margherita,25.5,Pizza simples com molho de tomate e queijo
+Lasagna,35.0,Lasagna de carne com molho bechamel

@@ -1,0 +1,2 @@
+Membro:Membro{nome='Membro A', id=1, email='emailA@fiap.com.br'}
+Membro:Membro{nome='Membro B', id=2, email='emailB@fiap.com.br'}

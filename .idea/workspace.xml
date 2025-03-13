@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adf94f01-e1ac-4469-82be-49cd7e5f337f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/service/BibliotecaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/service/EmprestimoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/service/LivroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/service/MembroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/SistemaRestaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/domain/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/domain/Prato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/service/CardapioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/service/PedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurant/service/PratoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restaurant/test/CardapioServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restaurant/test/PedidoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restaurant/test/PedidoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restaurant/test/PratoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restaurant/test/PratoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uEfJa1mRJLjXvZ89asbejmgsww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.SistemaBiblioteca.executor": "Run",
+    "Application.SistemaRestaurante.executor": "Run",
+    "JUnit.CardapioServiceTest.executor": "Run",
+    "JUnit.PedidoServiceTest.executor": "Run",
+    "JUnit.PedidoTest.executor": "Run",
+    "JUnit.PratoServiceTest.executor": "Run",
+    "JUnit.PratoTest.executor": "Run",
+    "Maven.exerciciosDDD [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pedro/IdeaProjects/exerciciosDDD",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\IdeaProjects\untitled\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\IdeaProjects\untitled\src\main\java\org\example" />
+      <recent name="C:\Users\pedro\IdeaProjects\untitled\src\main\java\org\biblioteca" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SistemaBiblioteca">
+    <configuration name="SistemaBiblioteca" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="library.SistemaBiblioteca" />
+      <module name="exerciciosDDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaRestaurante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="restaurant.SistemaRestaurante" />
+      <module name="exerciciosDDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restaurant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardapioServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosDDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restaurant.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restaurant.test" />
+      <option name="MAIN_CLASS_NAME" value="restaurant.test.CardapioServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosDDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restaurant.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restaurant.test" />
+      <option name="MAIN_CLASS_NAME" value="restaurant.test.PedidoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PratoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosDDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restaurant.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restaurant.test" />
+      <option name="MAIN_CLASS_NAME" value="restaurant.test.PratoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PratoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosDDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restaurant.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restaurant.test" />
+      <option name="MAIN_CLASS_NAME" value="restaurant.test.PratoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="exerciciosDDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="exerciciosDDD" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="exerciciosDDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="exerciciosDDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="exerciciosDDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="exerciciosDDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SistemaBiblioteca" />
+      <item itemvalue="Application.SistemaRestaurante" />
+      <item itemvalue="JUnit.CardapioServiceTest" />
+      <item itemvalue="JUnit.PedidoServiceTest" />
+      <item itemvalue="JUnit.PratoServiceTest" />
+      <item itemvalue="JUnit.PratoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SistemaRestaurante" />
+        <item itemvalue="JUnit.PratoTest" />
+        <item itemvalue="JUnit.PratoServiceTest" />
+        <item itemvalue="JUnit.CardapioServiceTest" />
+        <item itemvalue="JUnit.PedidoServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf94f01-e1ac-4469-82be-49cd7e5f337f" name="Changes" comment="" />
+      <created>1741818583838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741818583838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/restaurant/test/PedidoServiceTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

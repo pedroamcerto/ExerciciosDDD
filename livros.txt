@@ -1,0 +1,2 @@
+Livro:Livro{titulo='Livro A', autor='Autor A', ISBN='12345'}
+Livro:Livro{titulo='Livro B', autor='Autor B', ISBN='67890'}

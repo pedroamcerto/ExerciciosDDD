@@ -1,0 +1,1 @@
+Emprestimo:Emprestimo{livro=Livro{titulo='Livro A', autor='Autor A', ISBN='12345'}, membro=Membro{nome='Membro A', id=1, email='emailA@fiap.com.br'}, dataEmprestimo=Wed Mar 12 22:20:15 GMT-03:00 2025}
