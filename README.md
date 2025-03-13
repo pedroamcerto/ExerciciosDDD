@@ -1,6 +1,6 @@
 # ExerciciosDDD
 
-Este repositório contém exercícios de Domain-Driven Design (DDD) em Java. O objetivo é praticar e aplicar os conceitos de DDD em cenários reais.
+Este repositório contém exercícios de Domain-Driven Design (DDD) em Java.
 
 ## Estrutura do Projeto
 
